@@ -1,0 +1,65 @@
+/* 遮罩层 */
+.model_box{
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  top:0;
+  left: 0;
+}
+.model{
+  width: 100%;
+  height: 481rpx;
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+}
+.content{
+  padding: 0 30rpx;
+  margin-top: 20rpx;
+  margin-bottom: 50rpx;
+}
+.reply{
+  width: 660rpx;
+  height: 130rpx;
+  padding: 15rpx;
+  border: 1rpx solid #e5e5e5;
+  font-size: 26rpx;
+  text-align: justify; 
+}
+.smile_box{
+  margin: 20rpx 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.smile_icon{
+  width: 42rpx;
+  height: 42rpx;
+}
+.send_btn{
+  width: 124rpx;
+  height: 56rpx;
+  border-radius: 10rpx;
+  font-size: 24rpx;
+  color: #fff;
+  text-align: center;
+  line-height: 56rpx;
+  background: #5902E8;
+}
+.word_box{
+  margin-top: 15rpx;
+  padding-bottom: 20rpx;
+  overflow: hidden;
+  font-size: 24rpx;
+  color: #999;
+  display: flex;
+  flex-wrap: wrap;
+}
+.word_item{
+  padding: 8rpx 15rpx;
+  background:rgba(247,247,247,1); 
+  border-radius: 30rpx;
+  margin-bottom: 30rpx;
+  margin-right: 20rpx;
+}

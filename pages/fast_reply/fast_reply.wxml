@@ -1,0 +1,22 @@
+<view class="model_box">
+  <view class="model">
+    <view class="content">
+      <view class="reply_box">
+        <textarea class="reply" placeholder='点击下方文字，可快捷回复对方~'maxlength="1000"></textarea>
+      </view>
+      <view class="smile_box">
+        <view>
+          <image src="/images/laugth.png" class="smile_icon"></image>
+        </view>
+        <view class="send_btn">发送</view>
+      </view>
+      <!-- 常用字的框 -->
+      <view class="word_box">
+        <view class="word_item">你好，期待合作</view>
+        <view class="word_item">您好，已经添加您微信好友</view>
+        <view class="word_item">我有您需要的资源，可以合作</view>   
+        <view class="word_item">有兴趣可以聊聊</view>        
+      </view>
+    </view>
+  </view>
+</view>

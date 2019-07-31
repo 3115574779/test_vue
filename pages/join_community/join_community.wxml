@@ -1,0 +1,44 @@
+<view class="weui-flex head_top">
+  <view class="left_box">
+    <image src="/images/qun_img.jpg" class="qun_img"></image>
+  </view>
+  <view class="weui-flex__item inter_box">
+    <view class="title">互联网金融商务对接群</view>
+    <view class="qun_numberbox">
+      <view class="qun_number">群号:3115574779</view>
+      <view class="copy_btn">复制</view>
+    </view>
+  </view>
+  <view class="left_box">
+    <image src="/images/erwei_code.png" class="erwei_code"></image>
+  </view>
+</view>
+<view class="section">
+  <view class="weui-flex qunzhu_box">
+    <view>
+      <image src="/images/qun_img.jpg" class="owner_img"></image>
+    </view>
+    <view class="weui-flex__item qunzhu_info">
+      <view class="up_title">群主：麻麻说名字期的长会很酷</view>
+      <view class="weui-flex down_number">
+        <view>群主微信：1234567890</view>
+        <view class="copy_btn gray">复制</view>
+      </view>
+    </view>
+    <view></view>
+  </view>
+  <!-- 群主简介 -->
+  <view class="group_details">
+      <view class="gd_title">群主简介：</view>
+      <view class="gdt_words">一房二人三餐四季五味六欲七情八字九死还有一生
+世八苦七难六劫五欲四缘三妄二心一情跨越九世</view>
+  </view>
+   <view class="group_details" style="border:none;">
+      <view class="gd_title">群简介：</view>
+      <view>
+         <image src="/images/zhihu.png" class="zhihu_img"></image>
+      </view>
+  </view> 
+</view>
+ <!-- 申请进群 -->
+<view class="apply">申请进群</view>

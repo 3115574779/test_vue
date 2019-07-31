@@ -1,0 +1,17 @@
+<!-- 头部部分 -->
+<view class="weui-flex head_top">
+  <view class="left_box">
+    <image src="/images/qun_img.jpg" class="qun_img"></image>
+  </view>
+  <view class="weui-flex__item inter_box">
+    <view class="title">互联网金融商务对接群</view>
+    <view class="qun_numberbox">
+      <view class="qun_number">群号:3115574779</view>
+      <view class="copy_btn">复制</view>
+    </view>
+  </view>
+  <view class="left_box">
+    <image src="/images/erwei_code.png" class="erwei_code"></image>
+  </view>
+</view>
+

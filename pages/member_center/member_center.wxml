@@ -1,0 +1,43 @@
+<!-- 头部start -->
+<view class="weui-flex head_top">
+  <view>
+    <image src="/images/qun_img.jpg" class="head_img"></image>
+  </view>
+  <view class="weui-flex__item qunname_box">
+    <view class="up_title">
+      <view class="overflow_words qun_name">瑶仔哇咔咔瑶仔哇咔咔瑶仔哇咔咔瑶仔哇咔咔</view>
+      <!-- vip种类的图标 -->
+      <image src="/images/svip.png" class="svip_icon"></image>
+      <!-- <image src="/images/vip.png" class="svip_icon" style="width:78rpx;"></image>
+      <image src="/images/qisvip.png" class="svip_icon" style="width:87rpx;"></image>
+      <image src="/images/qivip.png" class="svip_icon" style="width:75rpx;"></image> -->
+
+    </view>
+    <view class="overflow_words">会员到期：2020-07-08</view>
+  </view>
+  <view class="jidu_box">
+    <view class="jidu">880/季度</view>
+    <view class="jidu_classify">普通会员 (vip)</view>
+  </view>
+</view>
+<!-- 头部end -->
+<view class="details_box">
+  <view class="black"></view>
+  <view class="details_info">
+    <view class="geneal_title">普通会员(VIP)特权</view>
+    <view class="list_box">
+
+      <!-- 第一条数据start -->
+      <view class="weui-flex list_item">
+        <view class="dotted"></view>
+        <view class="weui-flex__item list_words">
+          增加沟通次数，每日查看陌生人微信号 增加至100次
+        </view>
+      </view>
+      <!-- 第一条数据end -->
+
+    </view>
+    <!-- 开通按钮 -->
+    <view class="open_btn">开通会员</view>
+  </view>
+</view>
